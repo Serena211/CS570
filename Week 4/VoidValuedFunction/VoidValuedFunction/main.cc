@@ -12,6 +12,8 @@ int main() {
     double user_width;
     double user_height;
 
+
+
     // Prompt the user for a width and height.
     cout << "Enter a width: ";
     cin >> user_width;
